@@ -1,30 +1,42 @@
-# Hi there, I'm Daria! 👋
+<h1 align="center">Hi there, I'm Daria! 🌸</h1>
 
-I am a **Data-driven Policy Analyst** focused on **Complex Systems & Agent-Based Modeling**. I bridge the gap between rigorous data analysis and strategic decision-making in public and corporate sectors.
+<p align="center">
+  <img src="ССЫЛКА_НА_ТВОЮ_ГИФКУ_ИЛИ_ФОТО" alt="Daria's Coder Girl Vibe" width="250" />
+</p>
+
+<p align="center">
+  <b>Data-driven Policy Analyst</b> | <b>Complex Systems & Agent-Based Modeling</b>
+</p>
+
+<p align="center">
+  <i>Bridging rigorous data analysis and strategic decision-making.</i>
+</p>
 
 ---
 
-## 🤖 What I Do & My Focus
-* **Simulation & Modeling:** Building multi-agent systems to predict social and market behaviors before policies are implemented.
-* **Network Analysis:** Mapping social networks and information diffusion to find key opinion leaders and organizational bottlenecks.
-* **Data to Insights:** Translating complex simulation metrics into clear, actionable strategies for stakeholders.
-
----
-
-## 🛠️ Tech Stack & Toolkit
-
-### 🧠 Modeling & Simulation
+## 🤖 Modeling & Simulation
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NetLogo-333333?style=for-the-badge&logo=opsgenie&logoColor=red" />
+</p>
 
-### 📊 Data Analysis & Visualization
+## 📊 Data Analysis & Visualization
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-### 🔧 Development & Version Control
+## 🔧 Development & Version Control
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dariadata&show_icons=true&theme=buefy" alt="Daria's GitHub Stats" height="150" />
+</p>
+
+<p align="center">
+  <a href="@darivoux">
+    <img src="https://img.shields.io/badge/Connect--with--me-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white" alt="Connect" />
+  </a>
 </p>
