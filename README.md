@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=E8B4FF&center=true&vCenter=true&width=900&lines=Complex+Systems+%E2%9C%95+Public+Policy;Data-Driven+Decision+Making;Network+Analysis+%26+Governance;Agent-Based+Modeling" />
+# 🌸 DARIA'S SYSTEMS LAB
+
+### Complex Systems • Governance • Networks • Data
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=D8B4FE&center=true&vCenter=true&width=900&lines=Understanding+Complex+Systems;Data-Driven+Decision+Making;Network+Analysis+%26+Governance;Agent-Based+Modeling;Computational+Social+Science" />
 
 <br>
 
-# 🌸 Hi, I'm Maria
-
-### Complex Systems • Governance • Data Science
-
-*Studying how data, networks and institutions shape collective decisions.*
+*Exploring how data, institutions and networks shape collective decisions.*
 
 </div>
 
@@ -16,23 +16,27 @@
 
 ## 🌷 About
 
-I am a master's student interested in the intersection of:
+Hi, I'm **Daria**.
 
-🏛 Public Policy
+I study complex social systems and the ways decisions emerge within them.
 
-📊 Data Analytics
+My interests lie at the intersection of:
 
-🕸 Network Science
+🏛 **Public Policy & Governance**
 
-🤖 Agent-Based Modeling
+📊 **Data Analysis**
 
-🌍 Complex Adaptive Systems
+🕸 **Network Science**
 
-My goal is to understand how complex social systems evolve and how better public decisions can be designed through evidence, simulation and computational methods.
+🤖 **Agent-Based Modeling**
+
+🌍 **Complex Adaptive Systems**
+
+I am particularly interested in how computational methods can help understand, evaluate and improve public decision-making under uncertainty.
 
 ---
 
-## 🌸 Research Map
+## 🌸 Research Landscape
 
 ```mermaid
 mindmap
@@ -43,57 +47,54 @@ mindmap
       Institutions
       Decision Making
 
-    Data Science
-      Analytics
-      Machine Learning
-      Forecasting
-
     Networks
       Social Networks
-      Governance Networks
+      Institutional Networks
       Diffusion
+
+    Data Science
+      Analytics
+      Forecasting
+      Visualization
 
     Simulation
       Agent-Based Models
+      Scenarios
       System Dynamics
 
     Society
-      Inequality
-      Urban Systems
       Collective Behaviour
+      Urban Systems
+      Resilience
 ```
 
 ---
 
-## 🔬 Current Focus
+## 🔬 Research Dashboard
 
-| Area                         | Status    |
-| ---------------------------- | --------- |
-| Agent-Based Modeling         | 🟣🟣🟣🟣⚪ |
-| Network Analysis             | 🟣🟣🟣🟣⚪ |
-| Policy Evaluation            | 🟣🟣🟣⚪⚪  |
-| Data Science                 | 🟣🟣🟣🟣⚪ |
-| Computational Social Science | 🟣🟣🟣⚪⚪  |
+```text
+Agent-Based Modeling         ███████░░░
+
+Network Analysis             ████████░░
+
+Policy Evaluation            ██████░░░░
+
+Data Science                 ████████░░
+
+Computational Social Science ███████░░░
+
+Governance Research          ███████░░░
+```
 
 ---
 
-## 🌱 Future Research Directions
+## ❓ Questions I'm Exploring
 
-### 🏛 Policy Simulation
-
-How can computational models improve public decision-making?
-
-### 🕸 Governance Networks
-
-How do institutional networks shape policy outcomes?
-
-### 📊 Evidence-Based Policy
-
-How can data support government decisions under uncertainty?
-
-### 🌍 Complex Adaptive Systems
-
-How do societies react to interventions and shocks?
+* How can agent-based models support policy design?
+* What makes governance systems adaptive and resilient?
+* How do institutional networks influence policy outcomes?
+* How can data reduce uncertainty in public decision-making?
+* What happens when interventions interact with complex social systems?
 
 ---
 
@@ -101,49 +102,70 @@ How do societies react to interventions and shocks?
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-f3c4fb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/R-e8b4ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-d8b4fe?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NetworkX-c084fc?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gephi-f5d0fe?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-e9d5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-f3d5ff?style=for-the-badge&logo=python&logoColor=black">
+
+<img src="https://img.shields.io/badge/R-e9d5ff?style=for-the-badge&logo=r&logoColor=black">
+
+<img src="https://img.shields.io/badge/Pandas-f5d0fe?style=for-the-badge&logo=pandas&logoColor=black">
+
+<img src="https://img.shields.io/badge/NetworkX-e9d5ff?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Gephi-f3d5ff?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Jupyter-f5d0fe?style=for-the-badge&logo=jupyter&logoColor=black">
 
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Future Research
 
-* Agent-Based Modeling
-* Computational Social Science
-* Network Analysis
-* Public Governance
-* Data Visualization
-* Causal Inference
+### 🏛 Policy Simulation
+
+Using computational models to explore policy interventions and their consequences.
+
+### 🕸 Governance Networks
+
+Understanding how institutional structures influence collective outcomes.
+
+### 📊 Evidence-Based Policy
+
+Supporting public decisions through data and analytical methods.
+
+### 🌍 Complex Adaptive Systems
+
+Studying how societies respond to shocks, incentives and change.
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
 
 Coming soon 🌸
 
-Current projects and research repositories will appear here.
+This space will host projects related to:
+
+* Agent-based modeling
+* Network analysis
+* Governance systems
+* Public policy
+* Data science
+* Computational social science
 
 ---
 
 ## 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dariadata&show_icons=true&theme=midnight-purple&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dariadata&layout=compact&theme=midnight-purple&hide_border=true">
 
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Network
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
@@ -151,17 +173,17 @@ Current projects and research repositories will appear here.
 
 ## 🌷 Connect
 
-📫 LinkedIn
-
-🌐 Personal Website
+💼 LinkedIn
 
 📧 Email
+
+🌐 Personal Website
 
 ---
 
 <div align="center">
 
-*"Understanding complex systems to design better policies."*
+### ✨ Understanding complex systems to design better policies.
 
 🌸
 
