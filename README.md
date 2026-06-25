@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daria! 🌸</h1>
 
 <p align="center">
-  <img src="[https://imgur.com/a/LpCpv8q](https://kommodo.ai/i/AQlEEMBjUFVTw1uT8sMa)" alt="Daria's Coder Girl Vibe" width="250" />
+  <img src="https://kommodo.ai/i/AQlEEMBjUFVTw1uT8sMa" width="250" />
 </p>
 
 <p align="center">
