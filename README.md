@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daria! 🌸</h1>
 
 <p align="center">
-  <img src="ССЫЛКА_НА_ТВОЮ_ГИФКУ_ИЛИ_ФОТО" alt="Daria's Coder Girl Vibe" width="250" />
+  <img src="https://imgur.com/a/LpCpv8q" alt="Daria's Coder Girl Vibe" width="250" />
 </p>
 
 <p align="center">
