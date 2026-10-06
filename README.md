@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🌸 DARIA'S SYSTEMS LAB
-
 ### Complex Systems • Governance • Networks • Data
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=D8B4FE&center=true&vCenter=true&width=900&lines=Understanding+Complex+Systems;Data-Driven+Decision+Making;Network+Analysis+%26+Governance;Agent-Based+Modeling;Computational+Social+Science" />
